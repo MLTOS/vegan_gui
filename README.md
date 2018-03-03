@@ -8,3 +8,8 @@ General Plots         |  Basic Ordination
 :-------------------------:|:-------------------------:
 ![](screenshots/screenshot.png) |  ![](screenshots/screenshot_2.png)
 ![](screenshots/screenshot_3.png) |  
+
+
+In order for the functionality to work you need to input the data in a [tidy](http://vita.had.co.nz/papers/tidy-data.html) format. Here is a schema how this looks like for species and environment data.
+
+![](data_schema.png)

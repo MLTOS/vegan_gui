@@ -16,7 +16,7 @@ dashboardPage(
               accept=c('text/csv',
                        'text/comma-separated-values,text/plain',
                        '.csv')),
-    fileInput('file2', 'Upload Enivornment Data',
+    fileInput('file2', 'Upload Environment Data',
               accept=c('text/csv',
                        'text/comma-separated-values,text/plain',
                        '.csv')),
